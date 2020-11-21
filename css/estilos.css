@@ -70,13 +70,20 @@ header .textos-header{
 }
 
 .textos-header h2{
+    margin-left: 40px
     front-size: 30px;
     font-weight: 300;
     color:#fff;
 }
 
 .link-descarga h2{
-    margin-left: 50px
+    display: flex;
+    height: 430px;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
 }
 
 .wave{
