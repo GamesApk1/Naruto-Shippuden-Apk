@@ -75,6 +75,10 @@ header .textos-header{
     color:#fff;
 }
 
+.textos-header h2 .link-descarga{
+    margin-left: 50px
+}
+
 .wave{
     position: absolute;
     bottom: 0;
